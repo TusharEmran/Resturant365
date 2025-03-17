@@ -30,7 +30,7 @@ const Navbar = () => {
       <Divider/>
       <ul className="mobilenavigation-manu">
         <li>
-          <NavLink activeClassName="active" to={"/"}>Home</NavLink>
+          <NavLink activeClassName="active" to={"/Resturant365"}>Home</NavLink>
         </li>
         <li>
           <NavLink to={"/manu"}>Menu</NavLink>
