@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/Resturant365/static/css/main.e311ddf6.css",
+    "main.js": "/Resturant365/static/js/main.031d8437.js",
+    "static/js/453.4bbb0823.chunk.js": "/Resturant365/static/js/453.4bbb0823.chunk.js",
+    "static/media/nuggest.jpg": "/Resturant365/static/media/nuggest.ef3001d69edc086d6d01.jpg",
+    "static/media/pizza.jpg": "/Resturant365/static/media/pizza.fa922ca71512c4376a36.jpg",
+    "static/media/couple_platter.jpg": "/Resturant365/static/media/couple_platter.c56783f27c31b4f2e844.jpg",
+    "static/media/casew_nut_salad.jpg": "/Resturant365/static/media/casew_nut_salad.6021537573033052f535.jpg",
+    "static/media/khebsa.jpg": "/Resturant365/static/media/khebsa.1225e8010cd252bc3cf4.jpg",
+    "static/media/biriyani.jpg": "/Resturant365/static/media/biriyani.6d219d94037a8cdad0e1.jpg",
+    "static/media/banner.jpeg": "/Resturant365/static/media/banner.05892fe97cce26a5d9e5.jpeg",
+    "static/media/cake.jpg": "/Resturant365/static/media/cake.af47368b6ce039607c22.jpg",
+    "static/media/icecream.jpg": "/Resturant365/static/media/icecream.30fd85c241e5aa8676bb.jpg",
+    "static/media/omlet.jpg": "/Resturant365/static/media/omlet.0497a722b938c1c8c1b0.jpg",
+    "static/media/365_curnival_chicken.jpg": "/Resturant365/static/media/365_curnival_chicken.9e9dd5655b9153abba0d.jpg",
+    "static/media/365_burgur.jpg": "/Resturant365/static/media/365_burgur.d6b158bba7b2a74f5607.jpg",
+    "static/media/chhola.jpg": "/Resturant365/static/media/chhola.a1458ef1370699c23212.jpg",
+    "static/media/pasta.jpg": "/Resturant365/static/media/pasta.2bcee796f35cde58cbda.jpg",
+    "static/media/chese_burgur.jpg": "/Resturant365/static/media/chese_burgur.19a7d494cb38b7e3c78a.jpg",
+    "static/media/soup.jpg": "/Resturant365/static/media/soup.e93a93f193ff783c6c47.jpg",
+    "static/media/Plater.jpg": "/Resturant365/static/media/Plater.ff314de1dbe439602ddb.jpg",
+    "static/media/steak.jpg": "/Resturant365/static/media/steak.1de4c3a4a59bd97ded0e.jpg",
+    "static/media/dosa.jpg": "/Resturant365/static/media/dosa.5c938f456ea86779ba13.jpg",
+    "index.html": "/Resturant365/index.html",
+    "main.e311ddf6.css.map": "/Resturant365/static/css/main.e311ddf6.css.map",
+    "main.031d8437.js.map": "/Resturant365/static/js/main.031d8437.js.map",
+    "453.4bbb0823.chunk.js.map": "/Resturant365/static/js/453.4bbb0823.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e311ddf6.css",
+    "static/js/main.031d8437.js"
+  ]
+}
